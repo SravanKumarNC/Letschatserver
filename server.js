@@ -24,6 +24,7 @@ app.use(
       "http://192.168.1.4:5173",
       "http://192.168.1.5:5173",
       "http://192.168.190.18:5173",
+      "https://hiletschat.netlify.app/"
     ],
     credentials: true,
   })
